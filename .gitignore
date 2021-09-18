@@ -2,4 +2,6 @@
 .history
 node_modules
 .code
+.idea
+.DS_Store
 dist
