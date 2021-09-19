@@ -6,6 +6,7 @@
 @import "partials/fonts";
 
 @import "partials/functions";
+@import "partials/typography";
 
 @import "partials/layout";
 //components
@@ -15,3 +16,8 @@
 @import "components/intro";
 @import "components/btn";
 @import "components/card";
+
+@import "components/list";
+@import "components/case";
+@import "components/social";
+@import "components/commons";
